@@ -6,8 +6,8 @@ FILE_NAME ('LedBox_V2_Bottom.STEP',
     '2021-06-11T21:26:48',
     ( '' ),
     ( '' ),
-    'SwSTEP 2.0',
-    'SolidWorks 2020',
+    '',
+    '',
     '' );
 FILE_SCHEMA (( 'AUTOMOTIVE_DESIGN' ));
 ENDSEC;
