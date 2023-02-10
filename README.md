@@ -27,6 +27,7 @@ The firmware is compatible with both, V2 and V2.1.
 
 |Version|Firmware|
 |-|-|
+|0.13.3|[LedBoxV2_SR_WLED_0.13.3.bin](https://github.com/stanleyondrus/LedBoxV2/releases/download/v0.13.3/LedBoxV2_SR_WLED_0.13.3.bin)|
 |0.13.2|[LedBoxV2_SR_WLED_0.13.2.bin](https://github.com/stanleyondrus/LedBoxV2/releases/download/v0.13.2/LedBoxV2_SR_WLED_0.13.2.bin)|
 |0.12.0|[LedBoxV2_SR_WLED_0.12.0.bin](https://github.com/stanleyondrus/LedBoxV2/releases/download/v0.12.0/LedBoxV2_SR_WLED_0.12.0.bin)|
 
